@@ -1,0 +1,12 @@
+# Indicators of Compromise - Phishing Email Case 01
+
+Spoofed Organization:
+Sender Email:
+Subject Line:
+X-Originating-IP:
+Mail Server:
+Attachment Name:
+Suspicious Domain:
+Suspicious URL:
+
+Verdict: Phishing
