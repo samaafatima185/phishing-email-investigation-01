@@ -1,11 +1,11 @@
 # Indicators of Compromise - Phishing Email Case 01
 
-Spoofed Organization:
-Sender Email:
+Spoofed Organization:Home Depot 
+Sender Email:support@teckbe.com
 Subject Line:
-X-Originating-IP:
+X-Originating-IP:103[.]234[.]236[.]83
 Mail Server:
-Attachment Name:
+Attachment Name:Payment-updated.pdf
 Suspicious Domain:
 Suspicious URL:
 
